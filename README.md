@@ -2,7 +2,7 @@
 
 <h1>Projeto We Care Your Pet</h1>
 <p float="left">
-  <img src="./img/site-desktop.png" alt="site-in-desktop" width="660"/>
+  <img src="./img/site-desktop.png" alt="site-in-desktop" width="760"/>
   <img src="./img/site-phone.png" alt="site-in-phone" width="180"/>
 </p>
 
