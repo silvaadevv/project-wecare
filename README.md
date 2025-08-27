@@ -1,11 +1,17 @@
 <div align="center">
 
 <h1>Projeto We Care Your Pet</h1>
+<p float="left">
+  <img src="./img/site-desktop.png" alt="site-in-desktop" width="660"/>
+  <img src="./img/site-phone.png" alt="site-in-phone" width="180"/>
+</p>
+
+<br>
 
 <p>
 Esse projeto veio de base de um design pronto. <br>
 <strong>Créditos: 
-<a href="https://rodolfomori.com.br">DevClub</a>.
+<a href="https://rodolfomori.com.br">DevClub</a>
 </p></strong>
 
 <h3>Tecnologias usadas:</h3>
