@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Projeto We Care Your Pet</h1>
+<h1>Projeto We Care About Your Pet</h1>
 <p float="left">
   <img src="./img/site-desktop.png" alt="site-in-desktop" width="560"/>
   <img src="./img/site-phone.png" alt="site-in-phone" width="130"/>
